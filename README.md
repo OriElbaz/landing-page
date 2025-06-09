@@ -5,7 +5,7 @@ A responsive landing page built with semantic HTML and modern CSS
 Foundations Course to practise building web layouts from scratch using a 
 provided design mockup.
 
-## 🔗 Live Demo
+## Live Demo
 
 Check it out live here: 
 [https://orielbaz.github.io/landing-page](https://orielbaz.github.io/landing-page)*
