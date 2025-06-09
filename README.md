@@ -8,7 +8,7 @@ provided design mockup.
 ## 🔗 Live Demo
 
 Check it out live here: 
-[https://orielbaz.github.io/landing-page](https://your-github-orielbaz.github.io/landing-page)*
+[https://orielbaz.github.io/landing-page](https://orielbaz.github.io/landing-page)*
 
 ## Features
 
